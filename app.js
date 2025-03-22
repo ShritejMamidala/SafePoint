@@ -66,6 +66,24 @@ const shelters = [
         lat: 39.285568,
         lon: -76.621933
     },
+    {
+        name: "The Midnight Mission",
+        address: "601 San Pedro St, Los Angeles, CA 90014",
+        lat: 34.0422635,
+        lon: -118.2459874
+    },
+    {
+        name: "Family Emergency Shelter",
+        address: "22671 3rd St, Hayward, CA 94541",
+        lat: 37.6756771,
+        lon: -122.0770961
+    },
+    {
+        name: "Cap K Navagiton Center",
+        address: "2900 M St, Bakersfield, CA 93301",
+        lat: 35.385869,
+        lon: -119.011514
+    }
   ];
   
   // Initialize map
