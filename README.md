@@ -13,7 +13,6 @@
 ## 📽️ Demo Video
 
 [![Watch the video](https://img.youtube.com/vi/aB2rNoRmqvo/maxresdefault.jpg)](https://youtu.be/aB2rNoRmqvo)
-
 ---
 
 ## 🧭 What Is SafePoint?
