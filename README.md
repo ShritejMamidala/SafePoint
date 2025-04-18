@@ -24,22 +24,9 @@
 
 ## 🚨 Core Features
 
-- 📍 **Live Map** with real-time location awareness
-- 🏚️ **Red Cross Shelter Integration** – pulls data from official shelter databases
-- 🌪️ **Disaster Overlay** – shows hurricanes, wildfires, floods, and more on the map
-- 📡 **Geolocation** – shows users the closest safe zones relative to their location
-- 🔎 **Search & Filter** – find shelters by distance or type
-
----
-
-## 🛠️ Tech Stack
-
-- **Frontend**: HTML, CSS, JavaScript (or React if applicable)
-- **Mapping**: Leaflet.js / Mapbox / Google Maps API
-- **Data Sources**:
-  - Red Cross Shelter Locations API / dataset
-  - FEMA / NOAA / other public disaster feeds
-- **Backend**: (If applicable) Node.js / Flask / FastAPI for pulling dynamic data
+-  **Live Map** with real-time location awareness
+-  **Red Cross Shelter Integration** – pulls data from official shelter databases
+-  **Search & Filter** – find shelters by distance or type
 
 ---
 
@@ -49,9 +36,3 @@
 > 🧪 The shelter data is sourced from publicly available Red Cross datasets.
 
 ---
-
-## 👤 Author
-
-**Shritej Mamidala**  
-High school developer focused on building AI and geospatial tools for social good.  
-[GitHub](https://github.com/YOURUSERNAME) • [LinkedIn](https://linkedin.com/in/YOURPROFILE)
